@@ -1,6 +1,6 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`0.3.0`, `0.3`, `latest` (0.3/Dockerfile)]()
+* [`0.3.0`, `0.3`, `latest` (0.3/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/master/Dockerfile)
 
 # What is Dex?
 
