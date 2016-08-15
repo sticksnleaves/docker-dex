@@ -3,7 +3,7 @@ FROM golang:1.6
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV DEX_HOME /go/src/github.com/coreos/dex
-ENV DEX_VERSION 0.4.0
+ENV DEX_VERSION 0.5.0
 
 RUN mkdir -p $DEX_HOME
 
