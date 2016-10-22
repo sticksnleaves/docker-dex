@@ -1,9 +1,9 @@
-FROM golang:1.6
+FROM golang:1.7
 
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV DEX_HOME /go/src/github.com/coreos/dex
-ENV DEX_VERSION 0.5.1
+ENV DEX_VERSION 0.6.0
 
 RUN mkdir -p $DEX_HOME
 
