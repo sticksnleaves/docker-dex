@@ -3,7 +3,7 @@ FROM golang:1.7
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV DEX_HOME /go/src/github.com/coreos/dex
-ENV DEX_VERSION 2.0.2
+ENV DEX_VERSION 2.1.0
 
 RUN apt-get update -y && \
     apt-get install sqlite3 -y
@@ -19,4 +19,4 @@ RUN cd $DEX_HOME && \
 
 WORKDIR $DEX_HOME/bin
 
-EXPOSE [5554, 5555, 5556, 5557]
+EXPOSE 5554 5555 5556 5557
