@@ -5,6 +5,7 @@
 * [`0.5.1`, `0.5` (0.5/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/b0f7a49be3aa4b7515ab2f86bc70b8ccc25817a8/Dockerfile)
 * [`0.6.1`, `0.6` (0.6/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/80917106361c2d33a075483dbb73b6bf6d4f7990/Dockerfile)
 * [`2.0.2`, `2.0` (2.0/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/77dfccb7ecddd35ffe8b26fda98d0484a99344da/Dockerfile)
+* [`2.1.0`, `2.1`, `2`, `latest` (2.1/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/505743678b7b84c9de37220e72f595aaaf81322d/Dockerfile)
 
 # What is Dex?
 
