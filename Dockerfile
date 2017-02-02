@@ -3,7 +3,7 @@ FROM golang:1.7
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV DEX_HOME /go/src/github.com/coreos/dex
-ENV DEX_VERSION 2.0.2
+ENV DEX_VERSION 2.1.0
 
 RUN apt-get update -y && \
     apt-get install sqlite3 -y
