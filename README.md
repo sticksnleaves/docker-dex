@@ -16,4 +16,4 @@ dex is created and maintained by CoreOS.
 
 This image sets the `WORKDIR` to the dex `bin` diretory. You may use this image to run `dex` and `example-app` commands.
 
-For more information on using dex please read the [official documentation](https://github.com/coreos/dex#documentation).
+For more information on using dex please read the [official documentation](https://github.com/coreos/dex/tree/v2.0.2#documentation).
