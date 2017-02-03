@@ -4,9 +4,11 @@ MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV DEX_HOME /go/src/github.com/coreos/dex
 ENV DEX_VERSION 2.1.0
+ENV PATH $DEX_HOME/bin:$PATH
 
 RUN apt-get update -y && \
-    apt-get install sqlite3 -y
+    apt-get install sqlite3 -y && \
+    apt-get clean -y
 
 RUN mkdir -p $DEX_HOME
 
@@ -17,6 +19,6 @@ RUN curl -L https://github.com/coreos/dex/archive/v$DEX_VERSION.tar.gz | tar zx 
 RUN cd $DEX_HOME && \
     make
 
-WORKDIR $DEX_HOME/bin
+WORKDIR $DEX_HOME
 
 EXPOSE 5554 5555 5556 5557
