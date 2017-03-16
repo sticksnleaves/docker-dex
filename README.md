@@ -6,7 +6,7 @@
 * [`0.6.1`, `0.6` (0.6/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/80917106361c2d33a075483dbb73b6bf6d4f7990/Dockerfile)
 * [`2.0.2`, `2.0` (2.0/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/77dfccb7ecddd35ffe8b26fda98d0484a99344da/Dockerfile)
 * [`2.1.0`, `2.1` (2.1/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/505743678b7b84c9de37220e72f595aaaf81322d/Dockerfile)
-* [`2.2.2`, `2.2` (2.2/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/f9d095daa15e67b24eb2d15f36358ed5c5f3f645/Dockerfile)
+* [`2.2.3`, `2.2` (2.2/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/952e1311f89fff88c3a8b55d3c5c5230757c47ad/Dockerfile)
 
 # What is Dex?
 
