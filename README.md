@@ -1,6 +1,7 @@
 # Supported tags and respective `Dockerfile` links
 
-* [`2.6.1`, `2.6`, `2`, `latest` (2.6/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/3aba45530a36208192b946dc8320c1e81e1335fd/Dockerfile)
+* [`2.7.0`, `2.7`, `2`, `latest` (2.7/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/b57ad536027b0ea6b9acec34ff2c627aa95bfb0d/Dockerfile)
+* [`2.6.1`, `2.6` (2.6/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/3aba45530a36208192b946dc8320c1e81e1335fd/Dockerfile)
 * [`2.5.0`, `2.5` (2.5/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/f232ee38efb708ca47a4070e1461d9904d2711e9/Dockerfile)
 * [`2.4.1`, `2.4` (2.4/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/3d88bb1d16e1e631ebb60176d036d920ec9a89b7/Dockerfile)
 * [`2.3.1`, `2.3` (2.3/Dockerfile)](https://github.com/sticksnleaves/docker-dex/blob/de60fe0f9ee60076098b916edc507d3cb305a522/Dockerfile)
