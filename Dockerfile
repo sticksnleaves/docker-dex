@@ -1,9 +1,9 @@
-FROM golang:1.9
+FROM golang:1.10
 
 MAINTAINER Anthony Smith <anthony@sticksnleaves.com>
 
 ENV DEX_HOME /go/src/github.com/coreos/dex
-ENV DEX_VERSION 2.9.0
+ENV DEX_VERSION 2.10.0
 ENV PATH $DEX_HOME/bin:$PATH
 
 RUN apt-get update -y && \
